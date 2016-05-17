@@ -92,6 +92,7 @@ footer ul li a {color: white;font-family: 'Comfortaa', cursive;font-size:1.1em;}
 	.desktop {display: none;}
 	.tabletmd {display: block;}
 	.xsmovil {display: none;}
+	.nivo-caption1 h1{font-size: 30px; margin-left: -8px; margin-top: 12px;}
 	/*.nivo-caption1 { width: 370px; margin: 25% 0px 0px 50%; -webkit-transform: translateY(-50%)translateX(-50%); -ms-transform: translateY(-50%)translateX(-50%); transform: translateY(-50%)translateX(-50%); }
 	*/
 	}
@@ -116,5 +117,5 @@ footer ul li a {color: white;font-family: 'Comfortaa', cursive;font-size:1.1em;}
 	.xsmovil {display: block;}
 	.nivo-caption1 { padding: 10px 0px 10px 0px; width: 250px; height: 100px;}
 	.nivo-caption1 img { width: 60%; }
-	.nivo-caption1 h1{font-size: 22px; margin-left: -50px;}
+	.nivo-caption1 h1{font-size: 19px; margin-left: -50px; margin-top: 12px;}
 }
