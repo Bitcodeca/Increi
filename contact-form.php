@@ -1,7 +1,7 @@
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
-require_once '/home2/paginasw/public_html/increi.com/phpmailer/PHPMailerAutoload.php';
+require_once '/home/bitcodeweb/public_html/increi.com/phpmailer/PHPMailerAutoload.php';
 if (isset($_POST['nombre']) && isset($_POST['email']) && isset($_POST['compania']) && isset($_POST['message'])) {
     if (empty($_POST['nombre']) || empty($_POST['email']) || empty($_POST['compania']) || empty($_POST['message'])) {
         $data = array('success' => false, 'message' => 'Please fill out the form completely.');
